@@ -1,0 +1,54 @@
+outcome,alpha,selected,ols_r2,n_obs
+mret,3.8189133047818546e-06,California; Commodities; Currencies/metals; M&A; Treasury bonds,1.0,4
+ElcEq_vol,1.105295141126022e-05,C-suite; Commodities; Economic growth; Exchanges/composites; Reagan,1.0,4
+Aero_vol,0.0001939212572065831,Bush/Obama/Trump; Environment ; Reagan; Research; Retail,1.0,4
+Ships_vol,0.03760545399658176,Accounting; Bank loans; California; News conference; Savings & loans,1.0,4
+Guns_vol,0.0004253657732750387,Control stakes; Germany; Japan; M&A; Treasury bonds,1.0,4
+Gold_vol,0.08248746552614582,Accounting; Bank loans; California; News conference; Savings & loans,1.0,4
+Mines_vol,0.00035358593665351794,Bond yields; Broadcasting; Currencies/metals; Electronics; Japan,1.0,4
+Coal_vol,0.0015510844769528406,Accounting; Bankruptcy; Economic growth; Exchanges/composites; Reagan,1.0,4
+Oil_vol,0.0004886109671160327,Bank loans; Commodities; Control stakes; Germany; Japan,1.0,4
+Telcm_vol,0.002578524352884274,Control stakes; Foods/consumer goods; Germany; Justice Department; M&A,1.0,4
+PerSv_vol,7.696399902471151e-05,Bush/Obama/Trump; Environment ; Exchanges/composites; Reagan; Research,1.0,4
+BusSv_vol,0.0001611973357388157,Accounting; California; Economic growth; Environment ; Reagan,1.0,4
+Hardw_vol,0.0002939188398646887,Bond yields; Commodities; Electronics; Federal Reserve; Japan,1.0,4
+Softw_vol,0.004092984818452442,Bank loans; Control stakes; Earnings losses; National security; Oil drilling,1.0,4
+Chips_vol,0.0017012542798525892,Accounting; Bankruptcy; California; Economic growth; Environment ,1.0,4
+Paper_vol,9.258810253973945e-05,Bond yields; Broadcasting; California; Currencies/metals; National security,1.0,4
+Trans_vol,0.006203576476104275,Currencies/metals; Electronics; Federal Reserve; National security; Oil drilling,1.0,4
+Whlsl_vol,0.00016882033167003627,Bank loans; Control stakes; Foods/consumer goods; Germany; M&A,1.0,4
+Rtail_vol,0.0003878187145610724,Bank loans; Commodities; Control stakes; Germany; Japan,1.0,4
+Banks_vol,2.1106426791015548e-05,Accounting; Bankruptcy; C-suite; Commodities; Exchanges/composites,1.0,4
+Insur_vol,0.00012216773489967918,Accounting; Bank loans; Bankruptcy; C-suite; Earnings losses,1.0,4
+RlEst_vol,2.659188744512691e-05,Accounting; Bank loans; Bankruptcy; Control stakes; Earnings losses,1.0,4
+Fin_vol,2.1106426791015548e-05,Bond yields; C-suite; Earnings losses; Electronics; Private/public sector,1.0,4
+vol,2.784941350080644e-05,Bond yields; C-suite; Commodities; Exchanges/composites; Reagan; Research,1.0,4
+Autos_vol,0.00010155211276345681,Bush/Obama/Trump; Commodities; Japan; Reagan; Research,1.0,4
+Mach_vol,0.002578524352884274,Accounting; Bank loans; California; Foods/consumer goods; News conference,1.0,4
+Clths_vol,9.18778242886334e-06,Bond yields; Commodities; Currencies/metals; M&A; Treasury bonds,1.0,4
+indpro,2.19349739890506e-06,Bush/Obama/Trump; Commodities; Reagan; Research; Retail,1.0,4
+indprol1,1.2598952777950284e-06,Bond yields; Currencies/metals; Electronics; Japan; M&A,1.0,4
+Agric_vol,0.00017680381784572087,Accounting; Bankruptcy; C-suite; Earnings losses; Futures/indices,1.0,4
+Food_vol,9.258810253973945e-05,Germany; Japan; Justice Department; M&A; Treasury bonds,1.0,4
+Soda_vol,0.0010717668854455034,Bank loans; Control stakes; Germany; Japan; M&A,1.0,4
+Beer_vol,0.00017680381784572087,Bond yields; Currencies/metals; Electronics; Federal Reserve; Japan,1.0,4
+Smoke_vol,0.00014033215376054847,Bush/Obama/Trump; Commodities; Japan; Reagan; Research,1.0,4
+Fun_vol,0.005923457145875806,Accounting; Bank loans; California; Foods/consumer goods; News conference,1.0,4
+FabPr_vol,0.005655986461065008,Accounting; Bank loans; California; Foods/consumer goods; News conference,1.0,4
+Books_vol,0.0047015472240221345,Bank loans; Control stakes; Germany; Japan; M&A,1.0,4
+Hlth_vol,5.077917243205404e-05,Bank loans; Bush/Obama/Trump; Commodities; Japan; Research,1.0,4
+Chems_vol,4.42063797202853e-05,Accounting; Bank loans; Bankruptcy; Control stakes; Earnings losses,1.0,4
+Rubbr_vol,4.629689226627268e-05,Currencies/metals; Environment ; National security; Oil drilling; US defense,1.0,4
+Txtls_vol,5.569540905800136e-05,Commodities; Currencies/metals; Japan; M&A; Treasury bonds,1.0,4
+BldMt_vol,0.0002558743520168589,Control stakes; Germany; Japan; M&A; Treasury bonds,1.0,4
+Cnstr_vol,0.00035358593665351794,Bank loans; Control stakes; Foods/consumer goods; Germany; M&A,1.0,4
+Steel_vol,2.1106426791015548e-05,Bond yields; Commodities; Currencies/metals; M&A; Treasury bonds,1.0,4
+Other_vol,1.92433614111598e-05,Bond yields; Commodities; Currencies/metals; M&A; Treasury bonds,1.0,4
+Boxes_vol,0.005156732244854969,Bank loans; Control stakes; Germany; Justice Department; M&A,0.9999192745411566,4
+Util_vol,0.10884019160690055,Bank loans; California; Foods/consumer goods; News conference; Savings & loans,0.9999124391086408,4
+Toys_vol,0.05196597302486197,Bank loans; California; Foods/consumer goods; International exchanges; News conference,0.9994118970756738,4
+Meals_vol,0.004923882631706742,Bank loans; Control stakes; National security; Oil drilling; Oil market,0.9992793352553281,4
+LabEq_vol,0.09047357242349294,Bank loans; Control stakes; Germany; Justice Department; M&A,0.9972704029110613,4
+MedEq_vol,0.03125959000482284,Bank loans; Control stakes; Germany; Justice Department; M&A,0.9951232324382332,4
+Drugs_vol,0.14361196859990802,California; Challenges; Foods/consumer goods; International exchanges; M&A,0.9310159656477551,4
+Hshld_vol,0.16496480740980207,Bank loans; Control stakes; Germany; M&A; Treasury bonds,0.892780542883119,4
